@@ -81,7 +81,7 @@
                 <hr>
 
                 <!-- Date/Time -->
-                <p><span class="glyphicon glyphicon-time"></span> Posted on August 24, 2013 at 9:00 PM</p>
+                <p><span class="glyphicon glyphicon-time"></span> 123 Posted on August 24, 2013 at 9:00 PM</p>
 
                 <hr>
 
